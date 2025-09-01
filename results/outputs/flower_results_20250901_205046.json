@@ -1,0 +1,58 @@
+{
+  "image_path": "data/sample_images/flower.jpg",
+  "image_name": "flower",
+  "model_used": "openai/clip-vit-base-patch32",
+  "processing_timestamp": "2025-09-01 20:50:46",
+  "top_matches": [
+    {
+      "rank": 1,
+      "caption": "The essence of nature.",
+      "similarity_score": 0.25163817405700684
+    },
+    {
+      "rank": 2,
+      "caption": "Your ticket to tranquility.",
+      "similarity_score": 0.23745273053646088
+    },
+    {
+      "rank": 3,
+      "caption": "The warmth of belonging.",
+      "similarity_score": 0.22949689626693726
+    },
+    {
+      "rank": 4,
+      "caption": "Your daily dose of delight.",
+      "similarity_score": 0.22928252816200256
+    },
+    {
+      "rank": 5,
+      "caption": "A moment to enjoy.",
+      "similarity_score": 0.22648170590400696
+    },
+    {
+      "rank": 6,
+      "caption": "Indulge, relax, and find your peace.",
+      "similarity_score": 0.22629038989543915
+    },
+    {
+      "rank": 7,
+      "caption": "Refresh and rejuvenate.",
+      "similarity_score": 0.2258830964565277
+    },
+    {
+      "rank": 8,
+      "caption": "A moment of calm.",
+      "similarity_score": 0.22545890510082245
+    },
+    {
+      "rank": 9,
+      "caption": "Your moment of serenity.",
+      "similarity_score": 0.22431114315986633
+    },
+    {
+      "rank": 10,
+      "caption": "Awaken your senses, embrace the moment.",
+      "similarity_score": 0.22364307940006256
+    }
+  ]
+}
