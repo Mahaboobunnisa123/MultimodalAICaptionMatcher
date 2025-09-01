@@ -3,7 +3,6 @@ Main Multimodal AI Caption Matcher
 
 This is the main entry point for the multimodal AI caption matching system.
 Integrates all components to provide a complete image-to-caption matching solution.
-Paraphrased implementation based on the original project architecture.
 """
 
 import argparse
